@@ -1,7 +1,7 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.1.2
+### Versão 0.1.3
 
 ### Features
 
