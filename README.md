@@ -3,7 +3,7 @@ Emporium do Jogador
 
 ### Versão 0.1.2
 
-Link> https://upbeat-hypatia-0fab28.netlify.app/
+- [Emporium do Jogador](https://upbeat-hypatia-0fab28.netlify.app/)
 
 ### Features
 
