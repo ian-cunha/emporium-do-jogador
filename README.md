@@ -3,6 +3,8 @@ Emporium do Jogador
 
 ### Versão 0.1.2
 
+Link> https://upbeat-hypatia-0fab28.netlify.app/
+
 ### Features
 
 - [x] Truques
@@ -20,3 +22,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Angular](https://angular.io/)
 - [Angular Material](https://material.angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Netlify](https://www.netlify.com/)
