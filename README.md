@@ -1,6 +1,8 @@
 # emporium-do-jogador
 Emporium do Jogador
 
+### Versão 0.1.2
+
 ### Features
 
 - [x] Truques
