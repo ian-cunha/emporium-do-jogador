@@ -1,12 +1,13 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.1.3
+### Versão 0.1.4
 
 ### Features
 
 - [x] Truques
 - [x] Conceitos básicos
+- [x] Mágias Nível 1
 - [ ] Escolas
 - [ ] Classes
 - [ ] Raças
