@@ -6,7 +6,7 @@ Emporium do Jogador
 ### Features
 
 - [x] Truques
-- [x] Conceitos básicos
+- [x] Ações em combate
 - [x] Mágias Nível 1
 - [x] Mágias Nível 9
 - [ ] Escolas
