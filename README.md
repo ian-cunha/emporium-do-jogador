@@ -26,4 +26,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Netlify](https://www.netlify.com/)
 
 
-Link: https://upbeat-hypatia-0fab28.netlify.app/
+Link: https://emporiumdojogador.netlify.app/
