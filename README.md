@@ -1,7 +1,7 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.1.7
+### Versão 0.1.8
 
 ### Features
 
@@ -9,6 +9,7 @@ Emporium do Jogador
 - [x] Referência rápida
 - [x] Mágias Nível 1
 - [x] Mágias Nível 2
+- [x] Mágias Nível 3
 - [x] Mágias Nível 9
 - [ ] Escolas
 - [ ] Classes
