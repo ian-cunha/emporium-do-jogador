@@ -1,13 +1,14 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.1.6
+### Versão 0.1.7
 
 ### Features
 
 - [x] Truques
-- [x] Ações em combate
+- [x] Referência rápida
 - [x] Mágias Nível 1
+- [x] Mágias Nível 2
 - [x] Mágias Nível 9
 - [ ] Escolas
 - [ ] Classes
