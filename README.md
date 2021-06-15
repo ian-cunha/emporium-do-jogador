@@ -3,6 +3,8 @@ Emporium do Jogador
 
 ### Versão 0.1.9
 
+- Novo Layout 2.0
+
 ### Features
 
 - [x] Truques
