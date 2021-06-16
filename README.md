@@ -1,9 +1,10 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.1.9
+### Versão 0.2.0
 
 - Novo Layout 2.0
+- Layout de Raças em desenvolvimento...
 
 ### Features
 
