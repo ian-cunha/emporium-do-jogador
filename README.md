@@ -1,7 +1,7 @@
 # emporium-do-jogador
 Emporium do Jogador
 
-### Versão 0.2.2
+### Versão 0.2.3
 
 - Novo Layout 2.0
 - Layout de Raças em desenvolvimento...
@@ -16,6 +16,7 @@ Emporium do Jogador
 - [x] Mágias Nível 4
 - [x] Mágias Nível 5
 - [x] Mágias Nível 6
+- [x] Mágias Nível 7
 - [x] Mágias Nível 9
 - [ ] Escolas
 - [ ] Classes
