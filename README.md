@@ -5,6 +5,7 @@ Emporium do Jogador
 
 - Novo Layout 2.0
 - Layout de Raças em desenvolvimento...
+- Todas magias adicionadas
 
 ### Features
 
